@@ -1,0 +1,2 @@
+rootProject.name='YouTubeFragment'
+include ':app'
